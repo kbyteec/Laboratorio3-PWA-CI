@@ -16,7 +16,7 @@ describe('App', () => {
 
   it('Debe tener el título correcto', () => {
     const app = new App();
-    expect(app.titulo).toBe('Laboratorio - PWA');
+    expect(app.titulo).toBe('Laboratorio - PWA - Nueva Prueba');
   });
 
 });

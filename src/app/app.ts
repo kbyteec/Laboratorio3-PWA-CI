@@ -15,7 +15,7 @@ interface Tarea {
 })
 
 export class App implements OnInit {
-  titulo = 'Laboratorio - PWA';
+  titulo = 'Laboratorio - PWA - Nueva Prueba';
 
   nuevaTarea = '';
 
